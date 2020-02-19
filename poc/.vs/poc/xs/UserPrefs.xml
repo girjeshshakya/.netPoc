@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{009725AD-D3AA-454C-9ECA-0D403C1E6154}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Poc.Students.DataAccessLogic/StudentDao.cs">
+    <Files>
+      <File FileName="poc/Controllers/Apis/StudentController.cs" Line="22" Column="51" />
+      <File FileName="Poc.Students.DataAccessLogic/IStudentDao.cs" />
+      <File FileName="Poc.Students.BusinessLogic/StudentBLController.cs" />
+      <File FileName="Poc.Students.BusinessLogic/IStudentBLController.cs" />
+      <File FileName="poc/NinjectResolver.cs" />
+      <File FileName="poc/App_Start/WebApiConfig.cs" />
+      <File FileName="Poc.Students.DataAccessLogic/StudentDao.cs" Line="32" Column="89" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="poc" expanded="True">
+            <Node name="Poc.Students.DataAccessLogic" expanded="True">
+              <Node name="StudentDao.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.poc PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/girjeshkumar/Projects/poc/Poc.Students.DataAccessLogic/StudentDao.cs" relfile="Poc.Students.DataAccessLogic/StudentDao.cs" line="26" column="1" />
+      <Breakpoint file="/Users/girjeshkumar/Projects/poc/Poc.Students.DataAccessLogic/StudentDao.cs" relfile="Poc.Students.DataAccessLogic/StudentDao.cs" line="41" column="1" />
+      <Breakpoint file="/Users/girjeshkumar/Projects/poc/Poc.Students.DataAccessLogic/StudentDao.cs" relfile="Poc.Students.DataAccessLogic/StudentDao.cs" line="43" column="1" />
+      <Breakpoint file="/Users/girjeshkumar/Projects/poc/Poc.Students.DataAccessLogic/StudentDao.cs" relfile="Poc.Students.DataAccessLogic/StudentDao.cs" line="79" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
